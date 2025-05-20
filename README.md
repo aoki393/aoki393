@@ -1,5 +1,11 @@
-## Hi there 👋
+## A Beginner in Video Game Development👋
+在2025年，我仔细思考后决定学习电子游戏开发并希望成为一个专业的开发者，于是开始学习C#、Unity 、C++并尝试制作自己的游戏。
 
+也许需要很长的时间才能做出像样的作品，但我会坚持走下去。部分学习记录或其它相关内容我会开源到这里。
+
+In 2025, after careful consideration, I decided to study video game development and hope to become a professional developer, so I began to learn C#, Unity and C++ and tried to make my own video game.
+
+It may take a long time to make a decent work, but I will stick to it. I will open source some study records or other related content here.
 <!--
 **aoki393/aoki393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
