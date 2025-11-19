@@ -1,5 +1,5 @@
 ## JKY
-From 2025, want to become a professional game developer.
+From 2025, want to become a professional game developer.  
 Want to have a true and wonderful life.
 <!--
 **aoki393/aoki393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
